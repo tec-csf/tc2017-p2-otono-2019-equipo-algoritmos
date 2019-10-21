@@ -1,3 +1,7 @@
+/***************************************
+ ** Daniela Vignau |   Allan Sánchez  **
+ **    A01021698   |      A01379951   **
+ ***************************************/
 #include <iostream>
 #include <stack>
 #include <map>
